@@ -4,6 +4,7 @@
 > Vai instalar o neovim e confiagurar ele e também vai personalizar o teu terminal bash para zash
 
 **Neovim** e um editor para Linux Open source 
+
 🤓 - depois de instalar e configurar o neovim podes procurar mas sobre os comandos e a documentação dele inclusive tenho um repositório a que mesmo
 
 # Comandos básicos
@@ -42,7 +43,7 @@ Para salvar forçadamente
 ESC + : q! + Enter 
 
 ```
-**Como usar o plugin do vim** [veja aque](https://github.com/yazaldefilimonepinto/amazing.vimrc)
+**Como usar o plugin do vim** [veja aqui!](https://github.com/yazaldefilimonepinto/amazing-vimrc)
 
 **Ohmyzsh** e um tema baseado no zsh se você usa bash e não gosta do terminal zsh e só depois de fazer a instalação executa
 NB: ** Quando O ohmyzsh instalar ele vai trocar o terminal **bash** para **zsh** 
